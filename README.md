@@ -26,14 +26,3 @@ Scatter plots were generated to visually display the relationship.
 Regression analysis and Pearson correlation coefficients were calculated to determine the correlation between education success (attendance and college enrollment rate) and crime rate.  
 College enrollment rate versus attendance was also reviewed using the same analysis to determine if there was a correlation.  
 Reference program: XXXXXXXXXXX.ipynb
-
-
-
-### OLD INFORMATION - DELETE IF ACCEPT NEW README TEXT
-Extrapolated data on Chicago gun violence and Chicago's Public School system to gage its impact on Chicago students.
-
-1. We cleaned and organized the school data sets - project_1_analysis_Billy.ipynb
-2. We cleaned and organized the crime data sets - initial_crime_data_cleanup.ipynb
-3. We then had to enrich the crime data set with Zip Codes based on Latitude and Longitude using the USZIPcode package - zipcode_lookup.ipynb
-
-
