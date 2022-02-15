@@ -1,5 +1,5 @@
 # NWBC-Project1-Group2
-Analysis of education success metrics of Chicago's Public School students (attendance and graduation rate) with respect to crime rate in the area. 
+Analysis of education success metrics of Chicago's Public School students (attendance and college enrollment) with respect to crime rate in the area. 
 The following years were analyzed:
 * 2011
 * 2015
@@ -21,10 +21,10 @@ Reference program for data organization: initial_crime_data_cleanup.ipynb
 Reference program for zip code reference: zipcode_lookup.ipynb  
 
 ## Analysis
-Analysis was performed by looking at both attendance and graduation rates versus the crime rate for each zip code in the city of Chicago.  
+Analysis was performed by looking at both attendance and college enrollment rate versus the crime rate for each zip code in the city of Chicago.  
 Scatter plots were generated to visually display the relationship.  
-Regression analysis and Pearson correlation coefficients were calculated to determine the correlation between education success (attendance and graduation rate) and crime rate.  
-Graduation rate versus attendance was also reviewed using the same analysis to determine if there was a correlation.  
+Regression analysis and Pearson correlation coefficients were calculated to determine the correlation between education success (attendance and college enrollment rate) and crime rate.  
+College enrollment rate versus attendance was also reviewed using the same analysis to determine if there was a correlation.  
 Reference program: XXXXXXXXXXX.ipynb
 
 
